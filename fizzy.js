@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CSGOPolygon AI Prediction
 // @version      1.1
-// @author       Frostagarhube
+// @author       Fizzy
 // @description  Best working prediction script!
 // @match        https://csgopolygon.com/*
 // @grant        none
